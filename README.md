@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pedro Comas</h1>
-<h3 align="center">A passionate frontend developer from Colombia that lives in Argentina</h3>
+<h3 align="center">A passionate FullStack Software Engineer at 100devs from Colombia</h3>
+<h4 align="left">Buenos aires, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushian01100111&label=Profile%20views&color=0e75b6&style=flat" alt="kushian01100111" /> </p>
 
