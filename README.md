@@ -3,8 +3,6 @@
 <h3 align="center">A passionate FullStack Software Engineer at 100devs from Colombia</h3>
 <h4 align="left">Buenos aires, Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushian01100111&label=Profile%20views&color=0e75b6&style=flat" alt="kushian01100111" /> </p>
-
 - 🌱 I’m currently learning **Node.js, MondoDB - SQL, Neural Networks**
 
 - 💬 Ask me about **JavaScript, express**
