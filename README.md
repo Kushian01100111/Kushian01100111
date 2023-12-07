@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pedro Comas</h1>
-<h3 align="center">A passionate FullStack Software Engineer at 100devs from Colombia</h3>
+<h3 align="center">Freelance Developer</h3>
 <h4 align="left">Buenos aires, Argentina</h3>
 
 - 🌱 I’m currently learning **Node.js, MondoDB - SQL, Neural Networks**
