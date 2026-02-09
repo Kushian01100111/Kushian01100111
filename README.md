@@ -11,11 +11,6 @@ Me gusta laburar ordenado: objetivos claros, PRs, entregas por etapas y buena co
 - **Data:** SQL (modelado básico, consultas, joins)
 - **Workflow:** Git/GitHub (branches, PRs), Linux, trabajo por tareas/sprints
 
-### Proyectos destacados
-- **[Nombre del proyecto 1](link)** — 1 línea de qué hace + stack (ej: Next + Go + SQL)
-- **[Nombre del proyecto 2](link)** — qué resuelve + 1 feature que lo haga interesante
-- **[Nombre del proyecto 3](link)** — si es de backend, poné métricas/arquitectura
-
 ### Qué vas a encontrar acá
 - APIs REST en Go/Node
 - UI components y apps en React/Next
