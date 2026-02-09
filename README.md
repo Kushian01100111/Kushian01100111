@@ -1,23 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Pedro Comas</h1>
-<h3 align="center">Freelance Developer</h3>
-<h4 align="left">Buenos aires, Argentina</h3>
+# Pedro Comas
+**CS student (UBA) · Full-stack Developer (React/Next + Go/Node) · SQL**
 
-- 🌱 I’m currently learning **Node.js, MondoDB - SQL**
+Construyo aplicaciones web y APIs REST para clientes y proyectos propios.
+Me gusta laburar ordenado: objetivos claros, PRs, entregas por etapas y buena comunicación.
 
-- 💬 Ask me about **JavaScript, express**
+### Tech
+- **Frontend:** React, Next.js, HTML/CSS (responsive), consumo de APIs REST
+- **Backend:** Go, Node.js (Express), validaciones, manejo de errores, endpoints REST
+- **Data:** SQL (modelado básico, consultas, joins)
+- **Workflow:** Git/GitHub (branches, PRs), Linux, trabajo por tareas/sprints
 
-- 📫 How to reach me **comaspedro6@gmail.com**
+### Proyectos destacados
+- **[Nombre del proyecto 1](link)** — 1 línea de qué hace + stack (ej: Next + Go + SQL)
+- **[Nombre del proyecto 2](link)** — qué resuelve + 1 feature que lo haga interesante
+- **[Nombre del proyecto 3](link)** — si es de backend, poné métricas/arquitectura
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ilikeoldssongs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilikeoldssongs" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/pedro-comas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro julio comas gomez" height="30" width="40" /></a>
-</p>
+### Qué vas a encontrar acá
+- APIs REST en Go/Node
+- UI components y apps en React/Next
+- ejercicios aplicados (estructuras/algos) con foco producto
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushian01100111&show_icons=true&locale=en&layout=compact" alt="kushian01100111" /></p>
+📫 **Contacto:** comaspedro6@gmail.com  
+🔗 **LinkedIn / Portfolio:** (links)
