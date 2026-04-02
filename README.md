@@ -18,4 +18,4 @@ Me gusta laburar con objetivos claros, entregas por etapas y buena comunicación
 
 📫 **Contacto:** comaspedro6@gmail.com  
 🔗 **[Linkedin](https://www.linkedin.com/in/pedro-comas/)**
-**[Portfolio](pedrocomas.xyz)**
+**[Portfolio](https://www.pedrocomas.xyz)**
