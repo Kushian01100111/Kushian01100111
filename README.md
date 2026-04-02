@@ -19,3 +19,9 @@ Me gusta laburar con objetivos claros, entregas por etapas y buena comunicación
 📫 **Contacto:** comaspedro6@gmail.com  
 🔗 **[Linkedin](https://www.linkedin.com/in/pedro-comas/)**
 **[Portfolio](https://www.pedrocomas.xyz)**
+
+### Certificaciones 
+🔗 **[Responsive Web design](https://www.freecodecamp.org/certification/kushian/responsive-web-design)**
+🔗 **[Desarrollo Web](https://raw.githubusercontent.com/Kushian01100111/Certificaciones-Coderhouse/refs/heads/main/62818d83b3a8b90024a19e3d.png)**
+🔗 **[JavaScript](https://github.com/Kushian01100111/Certificaciones-Coderhouse/blob/main/6303c82b3f29be012f36c64d.png?raw=true)**
+
