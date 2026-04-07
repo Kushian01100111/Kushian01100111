@@ -1,27 +1,28 @@
 
 # Pedro Comas
-**CS student (UBA) · Full-stack Developer (React/Next + Go/Node) · SQL**
+**Computer Science student at UBA · Backend / Full-stack Developer · Go, React, TypeScript, SQL**
 
-Construyo aplicaciones web y APIs REST para clientes y proyectos propios.
-Me gusta laburar con objetivos claros, entregas por etapas y buena comunicación.
+I build backend and full-stack projects through academic, freelance, and personal work. I'm especially interested in reliable systems, data handling, concurrency, and algorithmic problem-solving.
 
 ### Tech
-- **Frontend:** React, Next.js, HTML/CSS (responsive), consumo de APIs REST
-- **Backend:** Go, Node.js (Express), validaciones, manejo de errores, endpoints REST
-- **Data:** SQL (modelado básico, consultas, joins)
-- **Workflow:** Git/GitHub, Linux.
+- **Languages:** Go, TypeScript, JavaScript, SQL, Haskell
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Go, Node.js, Express, REST APIs
+- **Data:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Docker, Linux, Postman
 
-### Qué vas a encontrar acá
-- APIs REST en Go/Node
-- UI components y apps en React/Next
-- Algoritmos aplicados 
+### What you'll find here
+- Backend systems and APIs
+- Full-stack applications
+- Algorithm and visualization projects
+- Functional programming projects in Haskell
 
-📫 **Contacto:** comaspedro6@gmail.com  
+📫 **Contact:** comaspedro6@gmail.com  
 🔗 **[Linkedin](https://www.linkedin.com/in/pedro-comas/)**
 **[Portfolio](https://www.pedrocomas.xyz)**
 
-### Certificaciones 
+###  
 🔗 **[Responsive Web design](https://www.freecodecamp.org/certification/kushian/responsive-web-design)**
-🔗 **[Desarrollo Web](https://raw.githubusercontent.com/Kushian01100111/Certificaciones-Coderhouse/refs/heads/main/62818d83b3a8b90024a19e3d.png)**
+🔗 **[Web development](https://raw.githubusercontent.com/Kushian01100111/Certificaciones-Coderhouse/refs/heads/main/62818d83b3a8b90024a19e3d.png)**
 🔗 **[JavaScript](https://github.com/Kushian01100111/Certificaciones-Coderhouse/blob/main/6303c82b3f29be012f36c64d.png?raw=true)**
 
